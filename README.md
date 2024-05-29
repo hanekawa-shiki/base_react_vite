@@ -1,5 +1,3 @@
-# react 脚手架
+# React + Vite
 
-技术栈：
-
-webpack5 + react
+react + vite 模版
